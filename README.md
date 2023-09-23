@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @karyan6204
-- 👀 I’m interested in Web Development
-- 🌱 I’m currently learning Django and Hosting
-- 💞️ I’m looking to collaborate on Web Projects using  HTML, CSS and NodeJS
+- 👀 I’m interested in competetive programming
+- 🌱 I’m currently learning CS Fundamentals
+- 💞️ I’m looking to collaborate on Web Projects using  HTML, CSS, Javascript, ReactJS and NodeJS
 - 📫 You can contact me through my mail or linkedin profile.
 
 <!---
